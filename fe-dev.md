@@ -41,6 +41,5 @@
     + jquery-1.10.2.min.js jQuery类库
     + global.js js文件
     + global.min.js 自动压缩后的js文件
-
 + package.json 依赖库配置文件
 + Gruntfile.js Gruntjs配置文件
