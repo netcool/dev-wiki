@@ -12,3 +12,4 @@
 ### 相关文档
 
 1. [trello使用规范](https://github.com/netcool/dev-wiki/blob/master/trello.md)
+2. [前端环境搭建方法](https://github.com/netcool/dev-wiki/blob/master/fe-dev.md)
