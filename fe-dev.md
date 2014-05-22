@@ -34,12 +34,12 @@
         + util.less 样式工具库文件
         + var.less 样式变量库文件
 + style.less less文件
-+ style.css 自动编译压缩后的css文件
++ style.css 编译压缩后的css文件
 + img 
     + 图片
 + js
-    + jquery-1.10.2.min.js jQuery类库
+    + jquery.min.js
     + global.js js文件
-    + global.min.js 自动压缩后的js文件
+    + global.min.js 压缩后的js文件
 + package.json 依赖库配置文件
 + Gruntfile.js Gruntjs配置文件
