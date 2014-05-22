@@ -15,3 +15,4 @@ wordpress项目开发文档
 
 1. [trello使用规范](https://github.com/netcool/dev-wiki/blob/master/trello.md)
 2. [前端环境搭建方法](https://github.com/netcool/dev-wiki/blob/master/fe-dev.md)
+3. [编码规范参考文档](https://github.com/netcool/spec)
