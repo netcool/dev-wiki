@@ -9,6 +9,8 @@ wordpress项目开发文档
 
 ### 相关代码
 
+1. [wordpress主题模板](https://github.com/netcool/wp-theme-base)
+
 ### 相关文档
 
 1. [trello使用规范](https://github.com/netcool/dev-wiki/blob/master/trello.md)
